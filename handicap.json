@@ -1,0 +1,24 @@
+
+  
+  [{        
+    "id": 1,        
+    "type": "Moteur",        
+    "description": "Handicap affectant la motricité, comme la paralysie.",        
+    "solutions": ["Fauteuil roulant", "Rampes d'accès"]    
+    },    
+    {        
+    "id": 2,        
+    "type": "Visuel",        
+    "description": "Handicap affectant la vue, comme la cécité.",        
+    "solutions": ["Lecteurs d'écran", "Braille"]    
+    },    
+    {        
+    "id": 3,        
+    "type": "Auditif",        
+    "description": "Handicap affectant l'audition, comme la surdité.",        
+    "solutions": ["Appareils auditifs", "Langue des signes"]   
+    }]
+
+
+
+
